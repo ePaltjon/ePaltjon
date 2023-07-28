@@ -1,7 +1,7 @@
 # **Hi there!👋**
 ## **🤵 About Me**  
 ######
-  Greetings! I'm Ethan Paltjon and I am an **aspiring data scientist** who is currently pursuing a B.A. in Data Science at Harding University.  
+  Hello there! I'm Ethan Paltjon and I am an **aspiring data scientist** who is currently pursuing a B.A. in Data Science at Harding University.  
   
   My current programming languages (as of July 2023) include:  
   
