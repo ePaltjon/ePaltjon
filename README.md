@@ -5,14 +5,16 @@
   
   My current programming languages (as of July 2023) include:  
   
+  * SPSS
+  * R
   * C++
   * Python
-  * Microsoft Excel
+  * Microsoft Excel/VBA
   * Microsoft Access
 
   Outside of data science, I am deeply passionate about finance and have taken numerous courses to explore my interest, including Managerial Finance, Financial and Managerial Accounting, Personal Finance, and Macroeconomics. Furthermore, I have experience co-managing a $35,000 portfolio and turning an initial $17,000 loss into a $2,000 profit over the span of a few months.
   
-  I am looking to **combine my interests in data science and finance** by leveraging advanced statistical techniques and revolutionary computational methods to derive key financial insights and optimize long-term corporate investments.
+  I am looking to **combine my interests in data science and finance** by utilizing advanced predictive modeling techniques to derive key financial insights and optimize long-term corporate resource allocation.
 ## **🥇Achievements**  
 * Eagle Scout
 * Valedictorian  
