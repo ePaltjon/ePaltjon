@@ -1,7 +1,7 @@
 # **Hi there!👋**
 ## **🤵 About Me**  
 ######
-  I'm Ethan Paltjon and I am an **aspiring full-stack data scientist** who is currently pursuing a B.A. in Data Science and a M.S. in Information Sytems at Harding University.  
+  I'm Ethan Paltjon and I am an **aspiring full-stack data scientist** who is currently pursuing a B.A. in Data Science and a M.S. in Information Systems at Harding University.  
   
   My current programming languages (as of January 2024) include:
   * R
